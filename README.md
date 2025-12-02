@@ -4,5 +4,4 @@ Instale as dependências: pip install flask
 Execute a aplicação: python app.py
 O banco de dados será criado automaticamente na primeira execução.Acesse no navegador: Abra http://127.0.0.1:5000👥
 Integrantes do Grupo: João Vitor Evangelista da Silva
-Projeto Integrador - 2025
-
+PROJETO DE EXTENSÃO EM SOFTWARE FULL STACK - 2025/2
