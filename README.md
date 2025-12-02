@@ -2,5 +2,7 @@
 Como Rodar o Projeto Pré-requisitos Python 3.x instalado.Passo a Passo Clone o repositório:git clone 
 Instale as dependências: pip install flask
 Execute a aplicação: python app.py
-O banco de dados será criado automaticamente na primeira execução.Acesse no navegador:Abra http://127.0.0.1:5000👥
-Integrantes do GrupoJoão Vitor Evangelista da SilvaProjeto Integrador - 2025
+O banco de dados será criado automaticamente na primeira execução.Acesse no navegador: Abra http://127.0.0.1:5000👥
+Integrantes do Grupo: João Vitor Evangelista da Silva
+Projeto Integrador - 2025
+
